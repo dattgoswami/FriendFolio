@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "firstname": "Jim",
+    "lastname": "Simons",
+    "friends": [2, 3],
+    "transactions": [
+      {
+        "id": 1,
+        "time": "2021-09-23",
+        "type": "BUY",
+        "quantity": 10,
+        "tickr": "GOOG"
+      },
+      {        
+        "id": 2,
+        "time": "2021-09-21",
+        "type": "SELL",
+        "quantity": 5,
+        "tickr": "FB"
+      }
+    ]
+   
+  },
+  {
+    "id": 2,
+    "firstname": "Ray",
+    "lastname": "Dalio",
+    "friends": [4, 5],
+    "transactions": [
+      {
+        "id": 3,
+        "time": "2021-09-24",
+        "type": "BUY",
+        "quantity": 15,
+        "tickr": "FB"
+      },
+      {        
+        "id": 4,
+        "time": "2021-09-25",
+        "type": "SELL",
+        "quantity": 5,
+        "tickr": "GOOG"
+        }
+    ]
+  },
+  {
+    "id": 3,
+    "firstname": "Mike",
+    "lastname": "Novogratz",
+    "friends": [2, 3],
+    "transactions": [
+      {
+        "id": 1,
+        "time": "2021-09-23",
+        "type": "BUY",
+        "quantity": 5,
+        "tickr": "GOOG"
+      },
+      {        
+        "id": 1,
+        "time": "2021-09-21",
+        "type": "SELL",
+        "quantity": 5,
+        "tickr": "FB"
+        }
+      ] 
+  },
+  {
+    "id": 4,
+    "firstname": "Cathie",
+    "lastname": "Wood",
+    "friends": [2, 3],
+    "transactions": [
+      {
+        "id": 1,
+        "time": "2021-09-23",
+        "type": "SELL",
+        "quantity": 5,
+        "tickr": "GOOG"
+      },
+      {        
+        "id": 1,
+        "time": "2021-09-24",
+        "type": "SELL",
+        "quantity": 5,
+        "tickr": "FB"
+        }
+    ]
+  },
+  {
+    "id": 5,
+    "firstname": "Nic",
+    "lastname": "Carter",
+    "friends": [2, 3],
+    "transactions": [
+      {
+        "id": 1,
+        "time": "2021-09-20",
+        "type": "BUY",
+        "quantity": 10,
+        "tickr": "GOOG"
+      },
+      {        
+        "id": 1,
+        "time": "2021-09-25",
+        "type": "BUY",
+        "quantity": 5,
+        "tickr": "FB"
+        }
+      ]
+  }
+]
